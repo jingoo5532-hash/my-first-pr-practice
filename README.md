@@ -1,6 +1,6 @@
 # My First PR Practice
 
-This project provides a smple calculator with basic math operations.
+This project provides a simple calculator with basic math operations.
 
 ## Features
 
